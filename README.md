@@ -1,2 +1,2 @@
-crowd-API
+nodejs-crowdflower
 =========
