@@ -36,4 +36,4 @@ Contributing
 Copyright
 ---------
 
-Copyright &copy; 2010 [Eason Wang](http://github.com/EasonWang90). See LICENSE for details.
+Copyright &copy; 2014 [Eason Wang](http://github.com/EasonWang90). See LICENSE for details.
