@@ -1,0 +1,33 @@
+{
+	"tags"      : {
+		"allowUnknownTags" : true
+	},
+	"plugins"   : ["plugins/markdown"],
+	"templates" : {
+		"cleverLinks"     : false,
+		"monospaceLinks"  : false,
+		"default"         : {
+			"outputSourceFiles" : true
+		},
+		"systemName"      : "CrowdFlowerPlatform",
+		"footer"          : "",
+		"copyright"       : "CrowdFlowerPlatform",
+		"navType"         : "inline",
+		"theme"           : "flatly",
+		"linenums"        : true,
+		"collapseSymbols" : false,
+		"inverseNav"      : true
+	},
+	"markdown"  : {
+		"parser"   : "gfm",
+		"hardwrap" : true
+	},
+	"source": {
+        "include": ["./lib/"]    
+    },
+    "opts": {
+        "destination": "./docs/",
+        "recurse": true,
+        "template" : "./docstrap-master/template"
+    }
+}
