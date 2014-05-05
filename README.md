@@ -36,4 +36,4 @@ Contributing
 Copyright
 ---------
 
-Copyright &copy; 2014 [Scott Bateman],[Eason Wang](http://github.com/EasonWang90). See LICENSE for details.
+Copyright &copy; 2014 [Scott Bateman](https://github.com/scottbateman),[Eason Wang](http://github.com/EasonWang90). See LICENSE for details.
